@@ -1,10 +1,10 @@
 # TO-DO: complete the helper function below to merge 2 sorted arrays
 def merge(arrA, arrB):
-    elements = len(arrA) + len(arrB)
-    merged_arr = [0] * elements
+    elements = len(arrA) + len(arrB) # TOTAL NUMBER OF 'ELEMENTS' IN COMBINED ARRAY
+    merged_arr = [0] * elements  # CODE TO COMBINE SORTED ARRAYS
 
     # Your code here
-
+    
 
     return merged_arr
 
